@@ -14,6 +14,3 @@ export default defineConfig({
     }
   }
 })
-
-
-// 1. port um proxy add aakeen vite.config.js file l   2. installed module concurrently  3. script updated in package.json file  4. just cleaned the things that we dont want in frontend folder   5. 
