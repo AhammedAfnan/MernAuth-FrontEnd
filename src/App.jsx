@@ -1,12 +1,15 @@
 import Header from './components/Header'
+import HomeScreen from './screens/HomeScreen'
 
 const App = () => {
   return (
     <>
     <Header/>
-    <h1>Mern Auth</h1>
+    <HomeScreen/>
     </>
   )
 }
+
+
 
 export default App
