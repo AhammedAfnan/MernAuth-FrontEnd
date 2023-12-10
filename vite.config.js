@@ -14,4 +14,5 @@ export default defineConfig({
     }
   }
 })
-// 1. installed reduxjs/toolkit react-redux modules  2. created store.js in src and updated it.  3. updated main.jsx
+
+
