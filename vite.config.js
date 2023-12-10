@@ -8,10 +8,9 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/api': {
-        target: 'http://localhost:5000',
+        target: 'http://localhost:8000',
         changeOrigin:true
       }
     }
   }
 })
-// 1. updated store.js  2.created usersApiSlice.js in slice & updated it .  3. updated LoginScreen.jsx
